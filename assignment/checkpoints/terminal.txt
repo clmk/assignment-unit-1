@@ -25,11 +25,17 @@ testinsidefolder (returned the new folder inside of 'Test')
 
 
 # 6 - What is a quick way to create a new file?
+touch filename.txt >>> fun note as well rm filename.txt to remove the file <<<
 
 # 7 - Run 'git --version' in your terminal. What is the output?
+corey@mk-gang-imac tanzanite % git --version
+git version 2.37.1 (Apple Git-137.1)
 
 # 8 - Why would you run the command 'git status'?
+To check the current state of the repository.
 
 # 9 - What does the command 'git add .' do?
+Adds a change in the working directory to the staging area.
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+git push origin main
